@@ -22,6 +22,8 @@ export class WizModal implements ComponentInterface {
   }
 
   render() {
+    console.log('a feature');
+    
     return (
       <div style={this.styleContent} class="wiz-modal" id={this.idModal} aria-hidden="true">
         <div class="wiz-modal-dialog  ">
