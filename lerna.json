@@ -1,0 +1,19 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent",
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "packages/*/test/**",
+        "**/*.test.ts",
+        "**/*.e2e.ts",
+        "**/*.spec.ts",
+        "**/*.md",
+        "**/*.mdx"
+      ],
+      "message": "chore(release): publish"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "wiz-button",
+      "description": "A button",
+      "events": [],
+      "slots": [],
+      "cssProperties": [
+        {
+          "name": "--wiz-button-primary",
+          "description": "Primary button background color",
+          "type": "Color"
+        },
+        {
+          "name": "--wiz-button-background-hover",
+          "description": "Button background color on hover",
+          "type": "Color"
+        },
+        {
+          "name": "--wiz-button-background-clicked",
+          "description": "Button background color on click",
+          "type": "Color"
+        }
+      ]
+    }
+  ]
+}
