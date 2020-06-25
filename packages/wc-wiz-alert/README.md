@@ -17,7 +17,7 @@ Alert é o nosso componente que tem como atributo a função de alerta, usado pa
   
   instala o pacote
 ```
-npm i @wizsolucoes/wiz-alert
+npm i @toureholder/wiz-alert
 ```
 
 |Frameworks| Link|

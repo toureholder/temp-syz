@@ -16,7 +16,7 @@ Radio button é nosso componente de seleção, geralmente utilizado para coletar
   
   instala o pacote
 ```
-npm i @wizsolucoes/wiz-radio
+npm i @toureholder/wiz-radio
 ```
 
 |Frameworks| Link|

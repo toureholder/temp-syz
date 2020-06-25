@@ -15,7 +15,7 @@ O plug-in Modal é uma caixa de diálogo / janela pop-up exibida na parte superi
   
   instala o pacote
 ```
-npm i @wizsolucoes/wiz-modal
+npm i @toureholder/wiz-modal
 ```
 
 
