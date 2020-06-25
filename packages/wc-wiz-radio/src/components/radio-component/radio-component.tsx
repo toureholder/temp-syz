@@ -18,7 +18,7 @@ export class RadioComponent {
   }
 
   render() {
-    console.log('BREAKING CHANGE');
+    console.log('BREAKING CHANGE!!');
     
     return (
       <div class={`wiz-radio ${this.disabled ? 'disabled' : ''}`} >
