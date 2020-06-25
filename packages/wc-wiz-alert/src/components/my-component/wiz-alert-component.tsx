@@ -18,7 +18,7 @@ export class WizAlert {
 
 
   componentDidLoad() {
-    console.log('a patch');
+    console.log('a real patch this time');
     if (this.time) {
       this.timer = window.setInterval(() => {
         this.isShow = false;
