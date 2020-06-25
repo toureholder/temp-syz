@@ -7,7 +7,7 @@ import { Component, Prop, h, State } from '@stencil/core';
   shadow: true
 })
 
-export class WizAlert {
+export class WizAlert {  
   @Prop() type: string;
   @Prop() time: number;
   @Prop() btnclose: string;
@@ -18,6 +18,7 @@ export class WizAlert {
 
 
   componentDidLoad() {
+    console.log('a patch');
     if (this.time) {
       this.timer = window.setInterval(() => {
         this.isShow = false;
