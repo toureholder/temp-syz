@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/wizsolucoes/wiz-alert/compare/@wizsolucoes/wiz-alerts@2.1.0...@wizsolucoes/wiz-alerts@2.1.1) (2020-06-25)
+
+
+### Bug Fixes
+
+* a patch ([21a9f94](https://github.com/wizsolucoes/wiz-alert/commit/21a9f94c060e16060e7e9ecbad20882b12329b47))
+
+
+
+
+
 # [2.1.0](https://github.com/wizsolucoes/wiz-alert/compare/@wizsolucoes/wiz-alerts@2.0.5...@wizsolucoes/wiz-alerts@2.1.0) (2020-06-25)
 
 
